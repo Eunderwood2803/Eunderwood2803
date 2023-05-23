@@ -1,19 +1,23 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.canva.com/design/DAFiuABTc6g/tp4EgbJoYawDTVvemwcqxQ/edit">
- <source media="(prefers-color-scheme: light)" srcset="https://www.canva.com/design/DAFiuABTc6g/tp4EgbJoYawDTVvemwcqxQ/edit">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-<!--
-**Sadeyes57/Sadeyes57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<image
+       src="https://github.com/Sadeyes57/Sadeyes57/assets/117729816/fb81225e-5985-41ed-9199-f3732bb319c9"
+       alt="Person working at a computer with logos for Python, HTML3 CSS and JavaScript"
+       style="display: inline-block; margin: 0 auto; max width: 1280">
+       
+       
+# A Bit About Me
+ 
+I am currently changing career and have a lot of experience to bring to everything I do. I had a 17 year career that honed my skills in deadlines, attention to details, communication, team working and grit. I have a lot of grit and never give up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ # My Learning
+ 
+ I am currently finishing a Department of Education funded Bootcamp with HyperionDev where I am a Software Engineer. I have independently studied a range of topics and language with CodeCademy and LinkedIn Learning I have a basic knowledge of Python, CSS, JavaScript, HTML5, Git and DevOps.
+ 
+# I’m looking for help with ...
+ Experience. I would love help getting my foot in the door, as the saying goes.
+
+# How to reach me:
+ 
+* liz.underwood@hotmail.co.uk
+* [LinkedIn](https://www.linkedin.com/in/liz-underwood-721a15250/)
+* [HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/152743/)
